@@ -31,7 +31,7 @@
   <property name="maximumSize">
    <size>
     <width>500</width>
-    <height>250</height>
+    <height>150</height>
    </size>
   </property>
   <property name="sizeIncrement">
@@ -53,13 +53,13 @@
    <property name="minimumSize">
     <size>
      <width>500</width>
-     <height>250</height>
+     <height>150</height>
     </size>
    </property>
    <property name="maximumSize">
     <size>
      <width>500</width>
-     <height>250</height>
+     <height>150</height>
     </size>
    </property>
    <widget class="QPushButton" name="modify_function">
