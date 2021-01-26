@@ -1,4 +1,6 @@
 # Beryl
-Offsets coordinates associated with "positioned" parameter in minecraft function files
+Offsets coordinates in minecraft function files
+Just simply run `main.py` to use. Make sure you have the PySide2 library installed.
 
-Just simply run `main.py` to use. The PySide2 library (required for the GUI) will automatically be installed.
+
+Special Thanks to d for making the regex, and Dhranios for adding support for other various parameters beyond execute
